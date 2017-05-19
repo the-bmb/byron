@@ -3,6 +3,6 @@
 int main(int argc, char const *argv[])
 {
 
-		printf("I'm the fastest man alive!!!\n");
+		printf("Ave Markus!\n");
 	return 0;
 }
