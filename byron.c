@@ -2,8 +2,7 @@
 
 int main(int argc, char const *argv[])
 {
-	while(1){
-		printf("Hello World!!!\n");
-	}
+
+		printf("I'm the fastest man alive!!!\n");
 	return 0;
 }
